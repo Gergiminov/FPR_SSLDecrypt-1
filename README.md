@@ -12,8 +12,8 @@ $ https://nodejs.org/en/
 # Create folder
 # Open Terminal in this folder
 # Run
-$ git clone git@github.com:kostadindraganov/FPR_SSLDecrypt.git
-# If you using own repo : git clone git@github.com:__your/repo__
+$ git clone https://github.com/Gergiminov/FPR_SSLDecrypt-1.git
+
 
 
 # Open FPR_SSLDecrypt folder
