@@ -20,7 +20,7 @@ $ git clone git@github.com:kostadindraganov/FPR_SSLDecrypt.git
 # Open Terminal in this folder
 
 # install dependencie
-$ npm run install
+$ npm install
 
 # serve with hot reload at localhost:3000
 $ npm run dev
